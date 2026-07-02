@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">1DAYコース 120分</title>
+  <desc id="desc">白い角丸カードにオレンジの円と、1DAYコース 120分 の文字。</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#5a4430" flood-opacity="0.10"/>
+    </filter>
+    <radialGradient id="circle" cx="36%" cy="26%" r="76%">
+      <stop offset="0" stop-color="#f6c3a0"/>
+      <stop offset="0.64" stop-color="#eda578"/>
+      <stop offset="1" stop-color="#dc8756"/>
+    </radialGradient>
+  </defs>
+  <rect x="42" y="48" width="1116" height="804" rx="96" fill="#ffffff" filter="url(#shadow)"/>
+  <circle cx="600" cy="420" r="292" fill="url(#circle)"/>
+  <text x="600" y="302" text-anchor="middle" fill="#050505" font-family="'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif" font-weight="900" font-size="150">1DAY</text>
+  <text x="600" y="482" text-anchor="middle" fill="#050505" font-family="'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif" font-weight="900" font-size="138">コース</text>
+  <text x="600" y="642" text-anchor="middle" fill="#050505" font-family="'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif" font-weight="900" font-size="74">（120分）</text>
+</svg>

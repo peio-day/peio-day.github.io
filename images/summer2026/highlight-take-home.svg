@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">作品を持ち帰れる</title>
+  <desc id="desc">白い角丸カードに水色の円と、作品を持ち帰れる！の文字。</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#5a4430" flood-opacity="0.10"/>
+    </filter>
+    <radialGradient id="circle" cx="36%" cy="26%" r="78%">
+      <stop offset="0" stop-color="#b9e0f5"/>
+      <stop offset="0.65" stop-color="#9fd2ee"/>
+      <stop offset="1" stop-color="#84c2e2"/>
+    </radialGradient>
+  </defs>
+  <rect x="42" y="48" width="1116" height="804" rx="96" fill="#ffffff" filter="url(#shadow)"/>
+  <circle cx="600" cy="426" r="316" fill="url(#circle)"/>
+  <text x="600" y="356" text-anchor="middle" fill="#080808" font-family="'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif" font-weight="900" font-size="110">作品を</text>
+  <text x="600" y="512" text-anchor="middle" fill="#080808" font-family="'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif" font-weight="900" font-size="110">持ち帰れる！</text>
+</svg>

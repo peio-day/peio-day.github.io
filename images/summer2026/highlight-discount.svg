@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">7月22日まで早期申込で1000円割引</title>
+  <desc id="desc">白い角丸カードにオレンジの円と、7月22日まで早期申込で1000円割引 の文字。</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feDropShadow dx="0" dy="22" stdDeviation="18" flood-color="#5a4430" flood-opacity="0.10"/>
+    </filter>
+    <radialGradient id="circle" cx="34%" cy="24%" r="80%">
+      <stop offset="0" stop-color="#ff7d26"/>
+      <stop offset="0.58" stop-color="#ef5d0e"/>
+      <stop offset="1" stop-color="#d94300"/>
+    </radialGradient>
+  </defs>
+  <rect x="42" y="48" width="1116" height="804" rx="96" fill="#ffffff" filter="url(#shadow)"/>
+  <circle cx="600" cy="426" r="332" fill="url(#circle)"/>
+  <path d="M222 382l108 96" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M978 382l-108 96" fill="none" stroke="#fff" stroke-width="12" stroke-linecap="round"/>
+  <text x="600" y="250" text-anchor="middle" fill="#ffffff" font-family="'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif" font-weight="900" font-size="70">〜7.22(水)まで</text>
+  <text x="600" y="382" text-anchor="middle" fill="#ffffff" font-family="'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif" font-weight="900" font-size="90">早期申込で</text>
+  <text x="600" y="560" text-anchor="middle" fill="#ffffff" font-family="'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif" font-weight="900" font-size="142">1,000円</text>
+  <text x="600" y="710" text-anchor="middle" fill="#ffffff" font-family="'Noto Sans JP', 'Hiragino Kaku Gothic ProN', sans-serif" font-weight="900" font-size="96">割引！</text>
+</svg>
